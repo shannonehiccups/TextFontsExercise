@@ -1,0 +1,32 @@
+body {
+    font-family: 'Orbitron', sans-serif;}
+span {
+    font-weight: bold;
+}
+h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+div #series-movies {
+    font-size: 20px;
+}
+h2 {
+    font-size: 2em;
+}
+
+li {
+    line-height: 2;
+}
+
+div #characters {
+font-size: 18px;
+}
+
+h4 {
+    letter-spacing: 15px;
+}
+
